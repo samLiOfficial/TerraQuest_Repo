@@ -1,0 +1,42 @@
+  Name(s): 
+  Jeremy: 	3% 
+  Couple some setter and getter methods of Labyrinth (30-40) lines
+  
+  Collin: 	12% 
+  20% of the Labyrinth, 20 % of Tile, 20% of Player 
+  
+  Sam:		85%
+  80% of the Labyrinth, 80 % of Tile, 80% of Player, 100% of layer, 100% of GUI
+  
+  Daniel: 	0%
+  Not enough information
+  
+  
+  Date of submission: 2022-01-05
+  Course Code: ICS4U1-01, Mr.Fernandes
+  Title: Labyrinth Game
+  Description: This is a Labyrinth game that the user can play using a GUI 
+ 
+  Features:
+  1. Move player alone with the tile when a tile is pushed
+  2. Move players separately when a tile is moved if player is on the same row 
+  3. Ending Screen and indicate which player wins
+  4. Attempt on highlight and Attempt on saving
+  5. All other features in the real labyrinth game
+  
+  Extra Features:
+  1. Highlight Path feature
+ 
+  Major Skills:
+  1.Object Oriented programming
+  2.2D array List
+  3.1D array List
+  4.Stack
+  5.GUI
+  6.JFrame and java.awt and java.swing package
+  7.Double loops
+  8.Recursion (Highlight Path)
+ 
+  Areas of concern and improvement:
+  1. Finish other extra features
+ 
